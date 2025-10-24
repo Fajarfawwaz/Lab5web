@@ -420,7 +420,8 @@ Saat tombol ditekan, JavaScript akan menampilkan alert sesuai kondisi input.
 
 ---
 
-<img width="1916" height="337" alt="image" src="https://github.com/user-attachments/assets/e583cbe4-fa52-42df-9d17-077ff9a695da" />
+<img width="1526" height="467" alt="Screenshot 2025-10-24 102956" src="https://github.com/user-attachments/assets/ecf45bf6-1b71-4b01-8be4-24513612d534" />
+
 
 ---
 
